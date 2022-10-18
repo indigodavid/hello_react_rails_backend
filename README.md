@@ -1,6 +1,3 @@
-# hello_react_rails_backend
-
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello React Rails Backend
