@@ -5,7 +5,7 @@ class Api::V1::GreetingsController < ApplicationController
   end
 
   def random_greeting
-    @greeting = Greeting.all.sample
+    @greeting = Greeting.all.sample.text
     render json: @greeting
     # response.set_header('Access-Control-Allow-Origin': '*')
   end
