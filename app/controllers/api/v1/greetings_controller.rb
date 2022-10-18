@@ -5,8 +5,7 @@ class Api::V1::GreetingsController < ApplicationController
   end
 
   def random_greeting
-    random_number = rand(Greeting.count)
-    @greeting = Greeting.all[random_number].text
+    @greeting = Greeting.all.sample.text
     render json: @greeting
   end
 end
