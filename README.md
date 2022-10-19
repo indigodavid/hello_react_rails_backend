@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://random-greeting-dvc.herokuapp.com/api/v1/hello)
 
 ## Getting Started
 
@@ -46,7 +46,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
+- [Heroku](https://random-greeting-dvc.herokuapp.com/api/v1/hello)
 
+### React Frontend
+
+- [Github](https://github.com/indigodavid/hello_react_rails_frontend)
+- [Pull Request](https://github.com/indigodavid/hello_react_rails_frontend/pull/1)
 
 ## Authors
 
