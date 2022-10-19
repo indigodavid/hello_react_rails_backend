@@ -48,6 +48,11 @@ To get a local copy up and running follow these simple example steps.
 
 - [Heroku](https://random-greeting-dvc.herokuapp.com/api/v1/hello)
 
+### React Frontend
+
+- [Github](https://github.com/indigodavid/hello_react_rails_frontend)
+- [Pull Request](https://github.com/indigodavid/hello_react_rails_frontend/pull/1)
+
 ## Authors
 
 👤 **David Vera**
